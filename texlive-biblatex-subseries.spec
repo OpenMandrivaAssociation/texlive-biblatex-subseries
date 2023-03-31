@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-subseries
 Version:	43330
-Release:	1
+Release:	2
 Summary:	Manages subseries with BibLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-subseries
