@@ -3,7 +3,7 @@ Version:	43330
 Release:	2
 Summary:	Manages subseries with BibLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-subseries
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-subseries
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-subseries.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-subseries.doc.r%{version}.tar.xz
